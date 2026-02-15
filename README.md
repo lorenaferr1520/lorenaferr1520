@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Lorena Ferreira! 👋
+![WhatsApp Image 2026-02-15 at 1 32 52 AM](https://github.com/user-attachments/assets/0e5c47c3-f092-4ad0-8cbe-6b64d8066da3)
 
-<!--
-**lorenaferr1520/lorenaferr1520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Computer Science Student | Explorer of the Low-Level World
 
-Here are some ideas to get you started:
+I'm a Computer Science student at Uninter, currently focused on understanding how electricity becomes logic and how logic becomes software. I don't just want to code; I want to know how the machine thinks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Learning Path:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📂 Featured Project:
+**[Jokenpô 🪨📄✂️](link-do-seu-repositorio)**
+*A Python-based Rock-Paper-Scissors game that handles errors like a pro and uses ASCII art to bring the terminal to life. It’s my first step into complex logic loops!*
+
+---
+
+### 📈 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical)
+
+---
+
+> "The best way to predict the future is to invent it." – Alan Kay
