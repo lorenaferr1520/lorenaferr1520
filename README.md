@@ -13,13 +13,13 @@ I'm a Computer Science student at Uninter, currently focused on understanding ho
 ---
 
 ### 📂 Featured Project:
-**[Jokenpô 🪨📄✂️](link-do-seu-repositorio)**
+**[Jokenpô 🪨📄✂️](https://github.com/lorenaferr1520/Jokenp-ou-Pedra-Papel-e-Tesoura-JOGO-)**
 *A Python-based Rock-Paper-Scissors game that handles errors like a pro and uses ASCII art to bring the terminal to life. It’s my first step into complex logic loops!*
 
 ---
 
 ### 📈 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lorenaferr1520&show_icons=true&theme=radical)
 
 ---
 
