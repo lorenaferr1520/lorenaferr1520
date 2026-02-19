@@ -21,11 +21,8 @@ I'm a Computer Science student at Uninter, currently focused on understanding ho
 ### 📈 GitHub Stats:
 
 ![Status de Lorena](https://github-readme-stats-sigma-five.vercel.app/api?username=lorenaferr1520&show_icons=true&theme=tokyonight)
-
-![Linguagens de Lorena](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lorenaferr1520&layout=compact&theme=tokyonight&hide_langs=html,css)
-
 ![Streak de lorenaferr1520](https://github-readme-streak-stats.herokuapp.com/?user=lorenaferr1520&theme=tokyonight)
-
+![Linguagens de Lorena](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lorenaferr1520&layout=compact&theme=tokyonight&hide_langs=html,css)
 ---
 
 > "The best way to predict the future is to invent it." – Alan Kay
