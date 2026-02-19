@@ -20,9 +20,9 @@ I'm a Computer Science student at Uninter, currently focused on understanding ho
 
 ### 📈 GitHub Stats:
 
-![Status de lorenaferr1520](https://github-readme-stats.vercel.app/api?username=lorenaferr1520&show_icons=true&theme=tokyonight)
+![Status de Lorena](https://github-readme-stats-sigma-five.vercel.app/api?username=lorenaferr1520&show_icons=true&theme=tokyonight)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenaferr1520&layout=compact&theme=tokyonight&hide_langs=html,css)
+![Linguagens de Lorena](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lorenaferr1520&layout=compact&theme=tokyonight&hide_langs=html,css)
 
 ![Streak de lorenaferr1520](https://github-readme-streak-stats.herokuapp.com/?user=lorenaferr1520&theme=tokyonight)
 
