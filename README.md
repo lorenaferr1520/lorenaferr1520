@@ -19,7 +19,8 @@ I'm a Computer Science student at Uninter, currently focused on understanding ho
 ---
 
 ### 📈 GitHub Stats:
-![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenaferr1520&show_icons=true&theme=tokyonight)
+![Status de lorenaferr1520](https://github-readme-stats.vercel.app/api?username=lorenaferr1520&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenaferr1520&layout=compact&theme=tokyonight&hide_langs=html,css)
 
 ---
 
