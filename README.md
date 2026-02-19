@@ -8,6 +8,9 @@ I'm a Computer Science student at Uninter, currently focused on understanding ho
 ### 🛠️ Tech Stack & Learning Path:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 ---
 
@@ -20,7 +23,6 @@ I'm a Computer Science student at Uninter, currently focused on understanding ho
 ### 📈 GitHub Stats:
 
 ![Status de Lorena](https://github-readme-stats-sigma-five.vercel.app/api?username=lorenaferr1520&show_icons=true&theme=tokyonight)
-![Streak de lorenaferr1520](https://github-readme-streak-stats.herokuapp.com/?user=lorenaferr1520&theme=tokyonight)
 ![Linguagens de Lorena](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lorenaferr1520&layout=compact&theme=tokyonight&hide_langs=html,css)
 ---
 
